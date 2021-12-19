@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf8">
+<title>Edwin's Final Project</title>
+</head>
+<body>
+ <img src="https://github.com/Edejesus212/Edejesus212.github.io/blob/main/Untitled.jpg?raw=true">
+ <table>
+  <thead> 
+   <tr>
+    <th> <a href="https://edejesus212.github.io/"> <button><img src="https://raw.githubusercontent.com/Edejesus212/Edejesus212.github.io/main/home.png"></th></button></a>
+   <th> <a href="https://edejesus212.github.io/about%20me.html"> <button><img src="https://github.com/Edejesus212/Edejesus212.github.io/blob/main/about%20me.png?raw=true"</button></th></a> 
+     <th><a href="https://edejesus212.github.io/javascript.html"> <button><img src="https://github.com/Edejesus212/Edejesus212.github.io/blob/main/javasripts.png?raw=true"</th></button> </a>
+   </tr>
+  </thead>
+  </table>
+ <h1> </h1>
+ <p> For my final project I made a simple coloring game. It starts out with a beautiful splash screen and a glimpse of the model the user will be coloring.</p>
+ <p> You press begin and it takes you to the app screen. On this screen, there is me as a bitmoji and there are 4 colors you can choose from to color in the bitmoji.</p>
+ <p> heres a video of me showing you how to use the program so you don't have to just visualize it.</p>
+ <p> without furtherado, heres the program:.</p>
+    
+ </body>
+</html>
